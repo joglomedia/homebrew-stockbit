@@ -1,4 +1,4 @@
-# homebrew-stockbit
+# Stockbit (Unofficial) Homebrew Formulae
 
 Stockbit Desktop App
 
