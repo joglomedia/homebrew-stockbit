@@ -14,7 +14,7 @@ cask "stockbit" do
   end
 
   auto_updates true
-  depends_on macos: ">= :montery"
+  depends_on macos: ">= :monterey"
 
   app "Stockbit.app"
 
