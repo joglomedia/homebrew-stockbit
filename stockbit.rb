@@ -1,6 +1,6 @@
 cask "stockbit" do
   version "1.45.1"
-  sha256 "8e1ac8850e5ad323e930cc7d3a0f0dfdbce46562a50876139a47c501fec46dbb"
+  sha256 "7bf543920329333f25a939030b00110f80b24a3114d4ffadbcf9b127e1cd048c"
 
   url "https://sda-release-v2.stockbit.com/release/#{version}/macos/Stockbit.dmg",
       verified: "sda-release-v2.stockbit.com/release/"
