@@ -10,6 +10,7 @@ Installing Stockbit
 
 ```bash
 brew tap joglomedia/stockbit
+brew trust joglomedia/stockbit
 brew install --cask joglomedia/stockbit/stockbit
 ```
 

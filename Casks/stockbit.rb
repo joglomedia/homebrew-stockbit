@@ -1,6 +1,6 @@
 cask "stockbit" do
-  version "1.59.1"
-  sha256 "8df746d70a198353ebbaa27ff1fb9e10c76af2c1817e6bb8161d144b22a9df71"
+  version "1.68.0"
+  sha256 "bf6cf90c33316b3b4d5468af7fb5133da9fa203eda542bff03abcfcbc1a7dc04"
 
   url "https://sda-release-v2.stockbit.com/release/#{version}/macos/Stockbit.dmg",
       verified: "sda-release-v2.stockbit.com/release/"
@@ -14,7 +14,6 @@ cask "stockbit" do
   end
 
   auto_updates true
-  depends_on macos: ">= :monterey"
 
   app "Stockbit.app"
 
