@@ -1,5 +1,4 @@
 class CurlImpersonate < Formula
-  name "cURL Impersonate"
   desc "Impersonate version of curl"
   homepage "https://github.com/lwthiker/curl-impersonate"
   url "https://github.com/lwthiker/curl-impersonate/archive/refs/tags/v0.6.1.tar.gz"
