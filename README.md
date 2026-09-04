@@ -1,4 +1,4 @@
-# Stockbit (Unofficial) Homebrew Formulae
+# Stockbit (Unofficial) Homebrew Formula
 
 Stockbit Desktop App
 
@@ -6,17 +6,17 @@ Pengalaman Trading Lebih Profesional dengan Aplikasi Saham versi Desktop untuk M
 
 ## Installation
 
-Installing Stockbit
+Installing Stockbit Cask
 
 ```bash
-brew tap joglomedia/stockbit
-brew trust joglomedia/stockbit
-brew install --cask joglomedia/stockbit/stockbit
+brew tap joglomedia/brewery
+brew trust joglomedia/brewery
+brew install --cask joglomedia/brewery/stockbit
 ```
 
-Removing Stockbit
+Removing Stockbit Cask
 
 ```bash
-brew remove --cask joglomedia/stockbit/stockbit
+brew remove --cask joglomedia/brewery/stockbit
 ```
 
