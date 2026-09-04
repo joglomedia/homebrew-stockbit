@@ -8,9 +8,18 @@ Pengalaman Trading Lebih Profesional dengan Aplikasi Saham versi Desktop untuk M
 
 Installing Stockbit Cask
 
+Add tap:
 ```bash
 brew tap joglomedia/brewery
+```
+
+Trust tap:
+```bash
 brew trust joglomedia/brewery
+````
+
+Install Formula/Cask:
+```bash
 brew install --cask joglomedia/brewery/stockbit
 ```
 
